@@ -1,0 +1,5 @@
+package org.example.data_loading
+
+enum class SignClassification {
+    VORFAHRT_VON_RECHTS, VORFAHRT_GEWAEHREN, STOP, FAHRTRICHTUNG_LINKS, FAHRTRICHTUNG_RECHTS, VORFAHRTSSTRASSE, UNKNOWN
+}
